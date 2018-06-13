@@ -1,0 +1,30 @@
+ACTION
+The Dark Knight
+Christopher Nolan
+4.2
+2008
+Christian Bale, Heath Ledger, Aaron Eckhart
+COMEDY
+Forrest Gump
+Robert Zemeckis
+4.8
+1994
+Tom Hanks, Robin Wright, Gary Sinise
+FANTASY
+Wonder Woman
+Patty Jenkins
+3.6
+2017
+Gal Gadot, Chris Pine, Robin Wright
+ROMANCE
+Titanic
+James Cameron
+3.9
+1997
+Leonardo DiCaprio, Kate Winslet, Billy Zane
+ACTION
+The Bourne Identity
+Doug Liman
+4.0
+2002
+Matt Damon, Chris Cooper, Franka Potente
